@@ -1,3 +1,7 @@
+// Sean Corkery
+// CIS 233J
+// Assignment 4
+
 package edu.pcc.cis.corkerya4;
 
 import java.util.Date;
