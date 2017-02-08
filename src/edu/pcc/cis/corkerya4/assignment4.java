@@ -13,6 +13,7 @@ public class assignment4 {
 
     public static void main(String[] args) {
 
+        System.out.println("Sean Corkery\nCIS 233J\nAssignment 4");
         System.out.println("Snibbidy dibbidy.");
         System.out.println("I'm printing stuff to the console and you can't stop me.");
         System.out.println(new Date());
